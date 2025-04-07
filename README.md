@@ -39,9 +39,6 @@ cd WiDS-AI-Studio--Team-Brainwave
 
 - Use Python 3.9+ in Jupyter or Google Colab  
 - Download the dataset from Kaggle and place it in the `data/` directory  
-- Open and run:
-  - `notebooks/EDA.ipynb`
-  - `notebooks/Modeling.ipynb`
 
 ---
 
