@@ -35,8 +35,6 @@
 git clone https://github.com/anniezhang27/WiDS-AI-Studio--Team-Brainwave.git
 cd WiDS-AI-Studio--Team-Brainwave
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 - Use Python 3.9+ in Jupyter or Google Colab  
