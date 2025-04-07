@@ -54,7 +54,7 @@ The model supports neuroscience research by identifying **functional connectome 
 
 ---
 
-## **📊 Data Exploration**
+## 📊 Data Exploration
 
 **Dataset Sources:**
 - Functional Connectivity Matrices (FCMs)
@@ -68,10 +68,31 @@ The model supports neuroscience research by identifying **functional connectome 
 - Detected and imputed missing values
 - Standardized numeric features and encoded categorical ones
 
+**Visual Insights:**
+
+**1. Gender Distribution**
+
+This bar chart shows a class imbalance in the dataset, with significantly more male participants (Gender = 0) than female (Gender = 1).
+
+![Gender Distribution](images/images/gender-distribution.png)
+
+**2. ADHD Outcome Distribution**
+
+There is a notable imbalance in ADHD labels, with more participants diagnosed with ADHD (1) than not (0).
+
+![ADHD Outcome](images/images/adhd-outcome.png)
+
+**3. ADHD Prevalence by Parent 1 Education**
+
+This plot shows the distribution of ADHD outcomes across levels of parental education. Higher education levels correlate with increased ADHD reporting, likely due to better access to diagnosis.
+
+![ADHD Prevalence by Parent Education](images/images/parent-education-adhd.png)
+
 **Challenges:**
 - High dimensionality (19,901 FCM features)
 - Multi-output task
 - Imbalanced target labels
+
 
 ---
 
