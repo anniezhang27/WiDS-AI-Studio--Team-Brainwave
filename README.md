@@ -9,7 +9,7 @@
 | Livia John      | [@liviajohn](https://github.com/liviajohn)         | Tuned XGBoost model, improved cross-validation strategy, evaluated multi-output performance |
 | Annie Zhang     | [@anniezhang27](https://github.com/anniezhang27)   | Built Graph Convolutional Network, implemented analysis of quantitative brain imaging data |
 | Akshitha Nagaraj| [@akshithanagaraj](https://github.com/akshithanagaraj) | Built Graph Convolutional Network, linked GCN embeddings to XGBoost model, preprocessed FCM data |
-| Harini Anand    | –                 | Optimized XGBoost model, tuned model for qualitative features                 |
+| Harini Anand    | [@merlinMorgan16](https://github.com/merlinMorgan16) | Optimized XGBoost model, tuned model for qualitative features                 |
 
 ---
 
